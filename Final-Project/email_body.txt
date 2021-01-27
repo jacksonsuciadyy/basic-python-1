@@ -1,0 +1,7 @@
+Hi ${EMAIL}, 
+
+Email ini terkirim khusus untuk Anda
+
+Best Regards,
+
+Jackson
